@@ -1,0 +1,36 @@
+[t460s]
+    address 192.168.0.103
+    use_node_name yes
+    port 4949
+
+[pi]
+    address 192.168.0.101
+    use_node_name yes
+    port 4949
+
+[pizero]
+    address 192.168.0.102
+    use_node_name yes
+    port 4949
+
+[host]
+    address 127.0.0.1
+    use_node_name yes
+    port 4949
+
+[t430]
+    address 192.168.0.151
+    use_node_name yes
+    port 4949
+
+[ds216]
+    address z.jlc.com
+    use_node_name yes
+    port 4949
+
+[z.jlc.com]
+[y.jlc.com]
+    address 127.0.0.1
+    use_node_name no
+    port 4949
+
